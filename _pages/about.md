@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the Acting Team Leader, Applications, in Educational Technology Services (Educational Affairs) at King Saud bin Abdulaziz University for Health Sciences [(KSAU-HS)](https://ksau-hs.edu.sa/Arabic/Pages/Home.aspx) in Jeddah. I have more than nine years of experience in software development, data analysis, database management and business analysis.
+I am the Acting Team Leader, Applications, in Educational Technology Services (Educational Affairs) at [King Saud bin Abdulaziz University for Health Sciences (KSAU-HS)](https://ksau-hs.edu.sa/Arabic/Pages/Home.aspx) in Jeddah. I have more than nine years of experience in software development, data analysis, database management and business analysis.
 
 I oversee the development and maintenance of the KSAU-HS website, lead the rollout of the Unified Design System, and make sure the site meets the Digital Government Authority (DGA) standards for technical efficiency and content quality.
 
